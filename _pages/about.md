@@ -31,6 +31,19 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/paper_imgs/GigaTok.jpg' alt="GigaTok" loading="lazy" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation
+](https://arxiv.org/abs/2504.08736)
+
+**Tianwei Xiong**, Jun Hao Liew, Zilong Huang, Jiashi Feng, Xihui Liu
+
+[**Project**](https://silentview.github.io/GigaTok/) | [**Paper**](https://arxiv.org/abs/2504.08736) | [**Code**](https://github.com/SilentView/GigaTok)
+- 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper_imgs/LVD-2M.jpg' alt="LVD-2M" loading="lazy" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,7 +59,7 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><video autoplay muted loop controls style="width: 100%; height: auto;"><source src="images/paper_imgs/EMCID.mov" type="video/quicktime">Your browser does not support the video tag.</video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><video autoplay muted loop controls style="width: 100%; height: auto;"><source src="images/paper_imgs/EMCID.gif" type="video/quicktime">Your browser does not support the video tag.</video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Editing Massive Concepts in Text-to-Image Diffusion Models
