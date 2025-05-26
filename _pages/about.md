@@ -40,7 +40,8 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 **Tianwei Xiong**, Jun Hao Liew, Zilong Huang, Jiashi Feng, Xihui Liu
 
 [**Project**](https://silentview.github.io/GigaTok/) | [**Paper**](https://arxiv.org/abs/2504.08736) | [**Code**](https://github.com/SilentView/GigaTok)
-- 
+- We propose solutions for reconstruction vs. generation delimma for scaling tokenziers.
+- GigaTok is the first work that successfully scales visual tokenizers to 3B parameters!
 </div>
 </div>
 
@@ -50,11 +51,12 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 
 [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](https://arxiv.org/abs/2410.10816)
 
-**Tianwei Xiong**, **Yuqing Wang**\*, Daquan Zhou, Zhijie Lin, Jiashi Feng, Xihui Liu
+**Tianwei Xiong**\*, Yuqing Wang\*, Daquan Zhou, Zhijie Lin, Jiashi Feng, Xihui Liu
 
 
 [**Project**](https://silentview.github.io/LVD-2M/) | [**Paper**](https://arxiv.org/abs/2410.10816) | [**Code**](https://github.com/SilentView/LVD-2M)
-- This paper introduces LVD-2M, a large-scale long-take video dataset with temporally dense captions.
+- We pay special attention to long-take videos without cuts.
+- We propose a data pipeline for filtering high-quality long-take videos and the temporally dense captioning of the videos.
 </div>
 </div>
 
@@ -68,7 +70,7 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 **Tianwei Xiong**\*, Yue Wu\*, Enze Xie, Yue Wu, Zhenguo Li, Xihui Liu
 
 [**Project**](https://silentview.github.io/EMCID/) | [**Paper**](https://arxiv.org/abs/2403.13807) | [**Code**](https://github.com/SilentView/EMCID)
-- This paper introduces EMCID, a novel method for editing massive concepts in text-to-image diffusion models.
+- EMCID can edit massive concepts in text-to-image diffusion models, with limited costs and minimal negative effects on the performances.  
 </div>
 </div>
 
