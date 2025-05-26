@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></**span**>
+<span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student at the HKU-MMLab, the University of Hong Kong, supervised by Prof. [Xihui Liu](https://xh-liu.github.io/). I received my B.Eng. degree at the Department of Automation, Tsinghua University.
 
@@ -59,7 +59,7 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><video autoplay muted loop controls style="width: 100%; height: auto;"><source src="images/paper_imgs/EMCID.gif" type="video/quicktime">Your browser does not support the video tag.</video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/paper_imgs/EMCID.gif' alt="EMCID" loading="lazy" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Editing Massive Concepts in Text-to-Image Diffusion Models
