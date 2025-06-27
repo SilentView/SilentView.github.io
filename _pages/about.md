@@ -25,6 +25,7 @@ My current research focuses on Generative models and Multimodal AI for Computer 
  -->
 
 # 🔥 News
+- *2025.06*: [GigaTok](https://silentview.github.io/GigaTok/) is accepted by ICCV 2025!
 - *2025.04*: &nbsp;🎉🎉  Proud to release [GigaTok](https://silentview.github.io/GigaTok/), the first work that successfully scales visual tokenizers to 3B parameters!
 - *2024.10*: &nbsp;🎉🎉 [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](https://silentview.github.io/LVD-2M/) (NeurIPS 2024, D&B track) is released! 
 
