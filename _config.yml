@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Tianwei Xiong (熊天蔚)"
-description              : "Ph.D. Student | HKU\n B.Eng. | Tsinghua University"
+description              : |
+  Ph.D. Student | MMLab@HKU
+  B.Eng. | Tsinghua University
 repository               : "SilentView/SilentView.github.io"
 google_scholar_stats_use_cdn : true
 
