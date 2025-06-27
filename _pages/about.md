@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student at [MMLab@HKU](https://mmlab.hk/), the University of Hong Kong, supervised by Prof. [Xihui Liu](https://xh-liu.github.io/). I received my B.Eng. degree at the Department of Automation, Tsinghua University.
 
-My research focuses on Generative models and Multimodal AI in Computer Vision. More specifically, I currently am dedicated to the development of visual tokenizers for better modeling of visual signals for generative AI models.
+My research focuses on Generative models and Multimodal AI in Computer Vision. More specifically, I am currently dedicated to the development of visual tokenizers for better modeling of visual signals for generative AI models.
 
 <!-- AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
