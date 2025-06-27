@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianwei Xiong (熊天蔚)"
+title                    : "Tianwei Xiong<br>(熊天蔚)"
 description              : "Ph.D. Student, MMLab@HKU<br>B.Eng., Tsinghua University"
 repository               : "SilentView/SilentView.github.io"
 google_scholar_stats_use_cdn : true
