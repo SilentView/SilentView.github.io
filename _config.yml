@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianwei Xiong<br>(熊天蔚)"
+title                    : "Tianwei Xiong (熊天蔚)"
 description              : "Ph.D. Student, MMLab@HKU<br>B.Eng., Tsinghua University"
 repository               : "SilentView/SilentView.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianwei Xiong (熊天蔚)"
+  name             : "Tianwei Xiong <br> (熊天蔚)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The University of Hong Kong"
   location         : "Hong Kong SAR"
