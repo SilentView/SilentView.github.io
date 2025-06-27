@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the HKU-MMLab, the University of Hong Kong, supervised by Prof. [Xihui Liu](https://xh-liu.github.io/). I received my B.Eng. degree at the Department of Automation, Tsinghua University.
+I am a Ph.D. student at [MMLab@HKU](https://mmlab.hk/), the University of Hong Kong, supervised by Prof. [Xihui Liu](https://xh-liu.github.io/). I received my B.Eng. degree at the Department of Automation, Tsinghua University.
 
 My current research focuses on Generative models and Multimodal AI for Computer Vision. More specifically, I am looking into the development of visual tokenizers for better modeling of visual signals for generative AI models.
 
