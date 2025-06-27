@@ -26,12 +26,11 @@ My current research focuses on Generative models and Multimodal AI for Computer 
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉  Proud to release [GigaTok](https://silentview.github.io/GigaTok/), the first work that successfully scales visual tokenizers to 3B parameters!
-- *2024.10*: &nbsp;🎉🎉 (LVD-2M:
-A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.github.io/LVD-2M/] (NeurIPS 2024, D&B track) is released! 
+- *2024.10*: &nbsp;🎉🎉 [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](https://silentview.github.io/LVD-2M/) (NeurIPS 2024, D&B track) is released! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/paper_imgs/GigaTok.jpg' alt="GigaTok" loading="lazy" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/paper_imgs/GigaTok.jpg' alt="GigaTok" loading="lazy" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation
@@ -40,8 +39,8 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 **Tianwei Xiong**, Jun Hao Liew, Zilong Huang, Jiashi Feng, Xihui Liu
 
 [**Project**](https://silentview.github.io/GigaTok/) | [**Paper**](https://arxiv.org/abs/2504.08736) | [**Code**](https://github.com/SilentView/GigaTok)
-- We propose solutions for reconstruction vs. generation delimma for scaling tokenziers.
-- GigaTok is the first work that successfully scales visual tokenizers to 3B parameters!
+- We propose solutions for reconstruction vs. generation delimma for scaling tokenizers.
+- GigaTok is the first work that successfully scales visual tokenizers to 3 billion parameters!
 </div>
 </div>
 
@@ -74,19 +73,18 @@ A Long-take Video Dataset with Temporally Dense Captions)[https://silentview.git
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  HKU Presidential PhD Scholarship (HKU-PS) and Hong Kong PhD Fellowship (HKPF). 2024-2025
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 📖 Educations
+- *2020.09 - 2024.06*, 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Services
+- I served as a reviewer for CVPR and NeurIPS.
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2023.07 - 2023.09*, Research Assistant, [HKU-IDS](https://datascience.hku.hk/)
+- *2024.02 - now*, Research Intern, [ByteDance-Seed](https://seed.bytedance.com/en/)
