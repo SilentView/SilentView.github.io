@@ -25,11 +25,33 @@ My research focuses on Generative models and Multimodal AI in Computer Vision. M
  -->
 
 # 🔥 News
+- *2026.02*: [EVATok](https://silentview.github.io/EVATok/) is accepted by CVPR 2026!
 - *2025.06*: [GigaTok](https://silentview.github.io/GigaTok/) is accepted by ICCV 2025!
 - *2025.04*: &nbsp;🎉🎉  Proud to release [GigaTok](https://silentview.github.io/GigaTok/), the first work that successfully scales visual tokenizers to 3B parameters!
 - *2024.10*: &nbsp;🎉🎉 [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](https://silentview.github.io/LVD-2M/) (NeurIPS 2024, D&B track) is released! 
 
+
+# 💻 Internships
+- *2023.07 - 2023.09*, Research Assistant, [HKU-IDS](https://datascience.hku.hk/)
+- *2024.02 - 2025.12*, Research Intern, [ByteDance-Seed](https://seed.bytedance.com/en/)
+- *2026.02 - now*, Research Intern, [Tencent Hunyuan](https://github.com/Tencent-Hunyuan)
+
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paper_imgs/EVATok.jpg' alt="GigaTok" loading="lazy" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation](https://arxiv.org/abs/2603.12267)
+
+**Tianwei Xiong**, Jun Hao Liew, Zilong Huang, Zhijie Lin, Jiashi Feng, Xihui Liu
+
+
+[**Project**](https://silentview.github.io/EVATok/) | [**Paper**](https://arxiv.org/abs/2603.12267) | [**Code**](https://github.com/HKU-MMLab/EVATok)
+- We propose an adaptive length video tokenization scheme to improve the efficiency of visual autoregressive generation.
+- EVATok achieves significant speedup while maintaining high reconstruction quality and generation performance.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/paper_imgs/GigaTok.jpg' alt="GigaTok" loading="lazy" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,6 +108,3 @@ My research focuses on Generative models and Multimodal AI in Computer Vision. M
 - I served as a reviewer for CVPR and NeurIPS.
 
 
-# 💻 Internships
-- *2023.07 - 2023.09*, Research Assistant, [HKU-IDS](https://datascience.hku.hk/)
-- *2024.02 - now*, Research Intern, [ByteDance-Seed](https://seed.bytedance.com/en/)
